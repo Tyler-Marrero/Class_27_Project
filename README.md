@@ -1,2 +1,1 @@
-# Class_27_Project
-today's project!
+# project-C27-template
